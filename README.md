@@ -1,11 +1,11 @@
 
-# ðŸŒ¸ Iris Flower Classification using Machine Learning â€” CodeAlpha Internship
+#🏵 Iris Flower Classification using Machine Learning â€” CodeAlpha Internship
 
 This project classifies Iris flowers into three species â€” *Setosa*, *Versicolor*, and *Virginica* â€” based on four floral features. Built during the **CodeAlpha Internship**, the solution covers full data preprocessing, outlier removal, model building, evaluation, and deployment using **Gradio**.
 
 ---
 
-## ðŸ“ Project Summary
+##🏵 Project Summary
 
 - **Goal**: Predict flower species from sepal and petal measurements.
 - **Dataset**: Iris Dataset from Kaggle.
@@ -15,7 +15,7 @@ This project classifies Iris flowers into three species â€” *Setosa*, *Vers
 
 ---
 
-## ðŸ“Š Dataset Information
+## 🏵 Dataset Information
 
 - **Source**: [Iris Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/iris)
 - **Columns**:
@@ -27,7 +27,7 @@ This project classifies Iris flowers into three species â€” *Setosa*, *Vers
 
 ---
 
-## ðŸ” Workflow Steps
+## 🏵 Workflow Steps
 
 ### 1. Load Dataset from Drive
 
@@ -63,7 +63,7 @@ This project classifies Iris flowers into three species â€” *Setosa*, *Vers
 
 ---
 
-## ðŸ§  Skills Demonstrated
+## 🏵  Skills Demonstrated
 
 - Data cleaning and preprocessing
 - Outlier detection with IQR
@@ -73,7 +73,7 @@ This project classifies Iris flowers into three species â€” *Setosa*, *Vers
 
 ---
 
-## ðŸ”— Useful Links
+## 🏵— Useful Links
 
 - [Gradio Documentation](https://gradio.app/)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
@@ -81,7 +81,7 @@ This project classifies Iris flowers into three species â€” *Setosa*, *Vers
 
 ---
 
-## ðŸ‘¤ Author
+## 🏵¤ Author
 
 **Abraraw Ayal**  
 ðŸŽ“ Data Science Student â€” Bahir Dar University  
